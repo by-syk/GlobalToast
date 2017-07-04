@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.by_syk.lib.globaltoast;
+package com.by_syk.lib.toast;
 
 import android.content.Context;
 import android.widget.Toast;
