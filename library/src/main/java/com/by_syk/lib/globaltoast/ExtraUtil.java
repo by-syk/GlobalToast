@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.by_syk.lib.toast;
+package com.by_syk.lib.globaltoast;
 
 import android.content.ClipData;
 import android.content.ClipboardManager;

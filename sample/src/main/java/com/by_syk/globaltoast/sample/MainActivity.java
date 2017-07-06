@@ -20,7 +20,7 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.view.View;
 
-import com.by_syk.lib.toast.GlobalToast;
+import com.by_syk.lib.globaltoast.GlobalToast;
 
 /**
  * Created by By_syk on 2016-07-16.

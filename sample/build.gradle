@@ -8,8 +8,8 @@ android {
         applicationId "com.by_syk.globaltoast.sample"
         minSdkVersion 14
         targetSdkVersion 25
-        versionCode 17070400
-        versionName "1.2.1"
+        versionCode 17070600
+        versionName "1.2.2"
     }
 
     buildTypes {

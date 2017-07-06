@@ -1,7 +1,7 @@
 # GlobalToast
 
 [![](https://jitpack.io/v/by-syk/GlobalToast.svg)](https://jitpack.io/#by-syk/GlobalToast)
-[![](https://img.shields.io/badge/Download%20aar-1.2.1-brightgreen.svg)](out/globaltoast-1.2.1.aar)
+[![](https://img.shields.io/badge/Download%20aar-1.2.2-brightgreen.svg)](out/globaltoast-1.2.2.aar)
 
 A simple library for using `android.widget.Toast` conveniently.
 
@@ -29,7 +29,7 @@ allprojects {
 
 ```
 dependencies {
-    compile 'com.github.by-syk:GlobalToast:1.2.1'
+    compile 'com.github.by-syk:GlobalToast:1.2.2'
 }
 ```
 
